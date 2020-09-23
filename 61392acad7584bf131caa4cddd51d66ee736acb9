@@ -1,0 +1,1 @@
+{"jobID":"829b50e9-1f18-8e0e-b727-4768aa982ea9","spec":{"type":"policy","cause":{"Message":"","User":"Nelson Mota \u003cnelson@seegno.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"locked":"true","locked_msg":"","locked_user":"Nelson Mota \u003cnelson@seegno.com\u003e"},"remove":{}}}},"result":null}
